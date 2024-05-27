@@ -76,3 +76,11 @@ The File Processor is a Python script designed to read data from multiple `.dat`
   - `output_file_name` (str): The name of the output file.
 
 ## Example Output
+id basic_salary allowances gross_salary
+1 50000 5000 55000
+2 60000 7000 67000
+3 45000 4000 49000
+Second Highest Salary=67000,Average Salary=57000
+
+## Contact
+For any inquiries or feedback, please contact Pawan Mane at pawanmane7644@gmail.com
